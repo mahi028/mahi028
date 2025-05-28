@@ -16,7 +16,7 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 - **Languages:** Python, JavaScript, Java
 - **Python Libraries/Frameworks:** Flask, Django, sklearn, pandas, numpy, matplotlib, seaborn, pytest
 - **JavaScript Libraries/Frameworks:** Vue.js, Nuxt.js
-- **Other Tools & Tech:** Docker, CI/CD, GraphQL, REST APIs, Redis, Celery, SQL, Jupyter Notebook, MS Excel
+- **Other Tools & Tech:** Docker, CI/CD, Linux Environment, Shell Commands, GraphQL, REST APIs, Redis, Celery, SQL, Jupyter Notebook, MS Excel
 
 ---
 
