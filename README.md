@@ -30,6 +30,10 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
   Data analysis and ML for e-commerce sales optimization and evaluation.  
   *Stack:* Jupyter Notebook, Machine Learning, Pandas, Matplotlib
 
+- [**R S Pharma**](https://www.rspharmaindia.com)  
+  Live pharmaceutical product catalogue for a real business.  
+  *Stack:* Flask, Nuxt.js, PostgreSQL, Docker
+
 - [**SponsorMe**](https://github.com/mahi028/SponsorMe)  
   Platform for influencers to connect with sponsors and monetize their reach.  
   *Stack:* Flask, Jinja2, SQLite
@@ -37,11 +41,7 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 - [**Littlelemon**](https://github.com/mahi028/littlelemon)  
   Fictional restaurant site for table booking and management.  
   *Stack:* Django, SQLite
-
-- [**R S Pharma**](https://www.rspharmaindia.com)  
-  Live pharmaceutical product catalogue for a real business.  
-  *Stack:* Flask, Nuxt.js, PostgreSQL, Redis, Celery, Docker
-
+  
 ---
 
 ## 📫 Connect with Me
