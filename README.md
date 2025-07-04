@@ -22,6 +22,10 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 
 ## 📌 Notable Projects
 
+- [**Facial-Recognition**](https://github.com/mahi028/Facial-Recognition)  
+  A flask based app with morder web interface which can be used for facial recogniosion tasks.  
+  *Stack:* Flask, Insightface, sqlite
+  
 - [**HouseHoldServices**](https://github.com/mahi028/HouseHoldServices)  
   Platform connecting users with service professionals (electricians, plumbers, etc.).  
   *Stack:* Flask, Vue, Celery, Redis, SQLite
