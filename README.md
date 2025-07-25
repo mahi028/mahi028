@@ -50,7 +50,7 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mohit-tewari-1b9791207/)
+- [LinkedIn](https://www.linkedin.com/in/mahi028/)
 - GitHub: [mahi028](https://github.com/mahi028)
 
 ---
