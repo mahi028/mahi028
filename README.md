@@ -2,6 +2,7 @@
 
 🎓 **3rd Year BS Student, Data Science and Applications @ IIT Madras**  
 🌐 **Student | Full Stack Developer | ML, Deep Learning, and Data Science Enthusiast**
+
 Here's my portfolio site: [**Portfolio**](https://mahi028.github.io)
 ---
 
