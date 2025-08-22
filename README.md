@@ -8,7 +8,7 @@ Here's my portfolio site: [**Portfolio**](https://mahi028.github.io)
 
 ## 🚀 About Me
 
-I'm a full stack developer and data science enthusiast with a strong foundation in Python, JavaScript, and Java. I enjoy building end-to-end solutions, from interactive web apps to robust data pipelines and machine learning models. Currently, I’m exploring the intersection of software engineering and AI to create impactful real-world applications.
+I'm a full stack developer and data science enthusiast with a strong foundation in Python, JavaScript. I enjoy building end-to-end solutions, from interactive web apps to robust data pipelines and machine learning models. Currently, I’m exploring the intersection of software engineering and AI to create impactful real-world applications.
 
 ---
 
