@@ -15,7 +15,7 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, Java
-- **Python Libraries/Frameworks:** Flask, Django, sklearn, pandas, numpy, matplotlib, seaborn, pytest
+- **Python Libraries/Frameworks:** Flask, Django, Scikit-Learn, pandas, numpy, matplotlib, seaborn, pytest
 - **JavaScript Libraries/Frameworks:** Vue.js, Nuxt.js
 - **Other Tools & Tech:** Docker, CI/CD, Linux Environment, Shell Commands, GraphQL, REST APIs, Redis, Celery, SQL, Jupyter Notebook, MS Excel
 
@@ -26,6 +26,10 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 - [**Facial-Recognition**](https://github.com/mahi028/Facial-Recognition)  
   A flask based app with morder web interface which can be used for facial recogniosion tasks.  
   *Stack:* Flask, Insightface, sqlite
+
+- [**System-Threat-Forecaster**](https://github.com/mahi028/System-Threat-Forecaster)  
+  Complete analysis and models for predecting system infection by malware based onsystem properties.
+  *Stack:* Scikit-Learn, Seaboarn, XGBoost, LightGBM, CatBoost 
   
 - [**HouseHoldServices**](https://github.com/mahi028/HouseHoldServices)  
   Platform connecting users with service professionals (electricians, plumbers, etc.).  
