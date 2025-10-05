@@ -23,7 +23,7 @@ I'm a full stack developer and data science enthusiast with a strong foundation 
 
 ## 📌 Notable Projects
 
-- [**EZCare**](https://github.com/mahi028/SE-Project)
+- [**EZCare**](https://github.com/mahi028/SE-Project/tree/prod)
   EZCare is a comprehensive Senior Care Management System designed to facilitate healthcare coordination between seniors, doctors, and caregivers. The platform provides appointment scheduling, vital signs monitoring, prescription management, health insight, patient facial lookup and more.
   *Stack:* Flask, Vue.js, Graphene, Apollo.js, Insightface, PostgreSQL, ChromaDB, OpenCV, Docker
   
