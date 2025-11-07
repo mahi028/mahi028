@@ -6,6 +6,7 @@
 Here's my portfolio site: [**Portfolio**](https://mahi028.github.io)
 
 View/Download my resume: [**Resume**](https://mahi028.github.io/assets/Mohit_Tewari_Resume.pdf)
+
 ---
 
 ## 🚀 About Me
