@@ -1,30 +1,45 @@
 # 👋 Hi, I'm Mohit Tewari (mahi028)
 
-🎓 **3rd Year BS Student, Data Science and Applications @ IIT Madras**  
-🌐 **Student | Full Stack Developer | ML, Deep Learning, and Data Science Enthusiast**
-
-Here's my portfolio site: [**Portfolio**](https://mahi028.github.io)
-
-View/Download my resume: [**Resume**](https://mahi028.github.io/assets/Mohit_Tewari_Resume.pdf)
+🎓 **4th Year BS Student, Data Science and Applications @ IIT Madras**  
+🌐 **Student | ML, Deep Learning, and Data Science Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-I'm a full stack developer and data science enthusiast with a strong foundation in Python, JavaScript. I enjoy building end-to-end solutions, from interactive web apps to robust data pipelines and machine learning models. Currently, I’m exploring the intersection of software engineering and AI to create impactful real-world applications.
+I am a Data Science undergraduate at IIT Madras and currently in my fourth year. I have hands-on project in machine learning and created numerous projects spanning Computer vision, Natural language processing and various machine learning techniques. I have also managed to secured 8 CGPA in my third year and have certificates for demonstrating my skills in Deep learning with PyTorch and Machine learning techniques.\
+I have an interest in developing project using Machine Learning and building robust pipelines with PyTorch, Hugging Face, Scikit-Learn etc. I'm Skilled in data cleaning, feature engineering, model ensemble, with expertise spanning 
+various Neural Network architectures, machine learning techniques and multi-modal models.
 
 ---
 
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript
-- **Python Libraries/Frameworks:** Flask, PyTorch, Scikit-Learn, pandas, numpy, matplotlib, seaborn, pytest
+- **Python Libraries/Frameworks:** Flask, PyTorch, Scikit-Learn, pandas, numpy, matplotlib, seaborn
 - **JavaScript Libraries/Frameworks:** Vue.js, Nuxt.js
 - **Other Tools & Tech:** Docker, CI/CD, Linux Environment, Shell Commands, GraphQL, REST APIs, Redis, Celery, SQL, Jupyter Notebook, MS Excel
 
 ---
 
 ## 📌 Notable Projects
+
+- [**Mechanical-Parts-Detection**](https://github.com/mahi028/Mechanical-Parts-Detection ) | Python, PyTorch, YOLO | Dec 2025
+  - Trained YOLO11m object detection models using the Ultralytics framework to detect and count mechanical components in CAD workspace images.
+  - Tuned data augmentation, training hyperparameters, and learning schedule to improve detection performance and stability.
+  - Implemented confidence-threshold optimization using IoU-based matching and F1-score analysis to improve counting accuracy.
+  - Achieved ~99.5% mAP on validation and ~99% counting accuracy on test set (competition metric).
+
+- [**Plant Disease Classification**](https://github.com/mahi028/Plant-Disease-Classification) | Python, PyTorch | Nov 2025
+  - Designed and trained a custom ResNet-style CNN with residual blocks for multi-class plant disease classification.
+  - Addressed class imbalance using data augmentation and weighted focal loss, improving minority-class performance.
+  - Achieved ~97.7% test accuracy and improved generalization through regularization and augmentation strategies.
+
+- [**Center Frame**](https://github.com/mahi028/Center-Frame ) | Python, PyTorch, HuggingFace, YOLO, OpenCV | Nov 2025
+  - Developed a real-time face tracking system that dynamically pans and zooms to keep subjects centered in video streams.
+  - Integrated YOLOv8-based face detection with smoothing algorithms to stabilize camera movement.
+  - Implemented a low-latency processing pipeline using OpenCV for real-time inference and video handling.
+  - Designed the system for practical deployment scenarios such as automated recording and smart camera applications.
 
 - [**EZCare**](https://github.com/mahi028/SE-Project/tree/prod)
   EZCare is a comprehensive Senior Care Management System designed to facilitate healthcare coordination between seniors, doctors, and caregivers. The platform provides appointment scheduling, vital signs monitoring, prescription management, health insight, patient facial lookup and more.
